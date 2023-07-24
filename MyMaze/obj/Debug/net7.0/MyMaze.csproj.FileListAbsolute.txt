@@ -1,0 +1,15 @@
+D:\.NetCode\MyMaze\obj\Debug\net7.0\MyMaze.csproj.AssemblyReference.cache
+D:\.NetCode\MyMaze\obj\Debug\net7.0\MyMaze.GeneratedMSBuildEditorConfig.editorconfig
+D:\.NetCode\MyMaze\obj\Debug\net7.0\MyMaze.AssemblyInfoInputs.cache
+D:\.NetCode\MyMaze\obj\Debug\net7.0\MyMaze.AssemblyInfo.cs
+D:\.NetCode\MyMaze\obj\Debug\net7.0\MyMaze.csproj.CoreCompileInputs.cache
+D:\.NetCode\MyMaze\bin\Debug\net7.0\MyMaze.exe
+D:\.NetCode\MyMaze\bin\Debug\net7.0\MyMaze.deps.json
+D:\.NetCode\MyMaze\bin\Debug\net7.0\MyMaze.runtimeconfig.json
+D:\.NetCode\MyMaze\bin\Debug\net7.0\MyMaze.dll
+D:\.NetCode\MyMaze\bin\Debug\net7.0\MyMaze.pdb
+D:\.NetCode\MyMaze\obj\Debug\net7.0\MyMaze.dll
+D:\.NetCode\MyMaze\obj\Debug\net7.0\refint\MyMaze.dll
+D:\.NetCode\MyMaze\obj\Debug\net7.0\MyMaze.pdb
+D:\.NetCode\MyMaze\obj\Debug\net7.0\MyMaze.genruntimeconfig.cache
+D:\.NetCode\MyMaze\obj\Debug\net7.0\ref\MyMaze.dll
